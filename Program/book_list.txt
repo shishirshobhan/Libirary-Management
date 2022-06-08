@@ -1,0 +1,26 @@
+1. In Search of Lost Time, Marcel Proust,34, 1
+2. Ulysses, James Joyce, 30, 1.5
+3. Don Quixote, Miguel de Cervantes,27, 1
+4. One Hundred Years of Solitude, Gabrial Garcia Marquez, 20, 2
+5. The Great Gatsby, F. Scooot Fitzgerald, 28, 1
+6. The Art of Computer Programming, Donald Knuth,22, 1.5
+7. Hackers: Herroes of Computer Revolution, Steven Levy, 22, 1
+8. The Road Ahead, Bill Gates, 19, 1.5
+9. Macintosh, Carol Kaehler and Apple, 26, 2
+10. Alan Turing: The Enigma, Andrew Hodges, 22, 2.5
+11. A Hero Born, Jin Yong,25, 1
+12. DragonFlight, Anne Mccaffrey, 16, 1.5
+13. Christian Apologetics, Cornelius Van Til, 19, 2.5
+14. The Problem of Pain, C.S. Lewis, 17, 2
+15. Orthodoxy, G.K.Chesterton, 19, 1
+16. Treasure ISland, Robert, Louis Stevenson, 24
+17. Kin, Rudyard Kipling,21, $1
+18. The call of the Wild, Jack London, 14, 1.5
+19. Lost Horizon, James Hilton, 13, 2.5
+20. The warriors, Sol Yurick, 17, 1
+21. Physica (Physics), Aristotle,17, 2
+22. What is Life?, Erwin Schrodinger, 16, 2.5
+23. To kill a Mockingbird, Harperlee, 20, 1.5
+24. Beloved, Toni Morrison, 9, 2.5
+25. The stranger, Albert Campus,8, 1
+26. Every Thing Happens For Reason,Shishir Shobhan,20,2
